@@ -1,7 +1,7 @@
 #include"../inc/activity1.h"
 
 #include <avr/io.h>
-#include<util/delay.h>
+//#include<util/delay.h>
 void activity1_init(){
 
     DDRB = DDRB |  (1<<PB0);
