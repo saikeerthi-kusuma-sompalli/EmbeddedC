@@ -1,6 +1,6 @@
 #include "../inc/activity3.h"
 #include <avr/io.h>
-#include<util/delay.h>
+//#include<util/delay.h>
 
 void initPWM(void)
 {
